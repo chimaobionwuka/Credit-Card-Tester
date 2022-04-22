@@ -2,7 +2,6 @@
 /**
  * A tester for the CreditCard class.
  * 
- * @author Cannon 
  */
 
 import java.util.Scanner;
